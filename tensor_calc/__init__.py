@@ -1,4 +1,4 @@
-from module_structure.tensor_operations import *
+from tensor_calc.tensor_operations import *
 
 
 __all__ = tensor_operations.__all__
