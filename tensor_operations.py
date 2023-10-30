@@ -1,13 +1,6 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[72]:
-
-
 import torch
 
-
-# In[84]:
+__all__ = ['TensorCalculator']
 
 
 class TensorCalculator():
