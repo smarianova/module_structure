@@ -12,4 +12,4 @@ COMMIT = 12
 
 __version__ = f'{MAJOR}.{MINOR}.{PATCH}.{COMMIT}'
 __author__  = 'Universidad Francisco de Vitoria'
-__name__    = 'module_structure'
+__name__    = 'tensor_calc'
